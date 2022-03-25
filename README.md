@@ -1,16 +1,40 @@
-### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**syedarafia13/syedarafia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafia Fizza</h1>
+<h3 align="center">I'm a passionate Hardware Design Engineer from Pakistan.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Nova Project](https://github.com/The-Nova-Project)**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/syedarafia13?tab=repositories)**
+
+- 📫 How to reach me **syedarafiafizzanaveed@gmail.com**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://code.visualstudio.com" target="_blank"> <img src="https://user-images.githubusercontent.com/81455748/160086769-3afee87f-1657-4afa-a427-008c503e1d70.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/70/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.xilinx.com/products/design-tools/vivado.html/" target="_blank"> <img src="https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/70/000000/python.png"/> </a> 
+    <a href="https://www.xilinx.com/products/design-tools/vivado.html/" target="_blank"> <img src="https://user-images.githubusercontent.com/48672827/57464071-a3d48280-72ae-11e9-84ac-fa393fb4a4bb.png"/> </a> 
+    <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank"> <img src="https://img.icons8.com/color/70/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.mathworks.com/products/matlab-online.html" target="_blank"> <img src="https://user-images.githubusercontent.com/81455748/160090229-f2277be9-8adb-4d41-a0c9-84fe934737c0.png"/> </a>
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+</p>
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/syeda-rafia-fizza-naveed-9959711b5"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/rafia_fizza?t=laGdrHvwm7KubfXNLASR3g&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
