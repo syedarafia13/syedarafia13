@@ -36,7 +36,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:syedarafiafizzanaveed@gmail.com)
 
 ## GitHub Statistics:
-<details>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=syedarafia13&hide_border=true&theme=buefy" />
     </p>
