@@ -40,10 +40,10 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=syedarafia13&hide_border=true&theme=grey" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=syedarafia13&hide_border=true&theme=lightgreen" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=syedarafia13&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=grey" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarafia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=grey" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=syedarafia13&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=lightgreen" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarafia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=lightgreen" />
     </p>
 </details>
 
