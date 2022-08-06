@@ -35,7 +35,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rafia_fizza/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:syedarafiafizzanaveed@gmail.com)
 
-## GitHub Statistics:
+## GitHub Status:
  <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
