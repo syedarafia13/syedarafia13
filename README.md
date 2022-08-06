@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=syedarafia13.syedarafia13)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px">, I'm Rafia Fizza</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rafia Fizza</h1>
 <h3 align="center">I'm a passionate Hardware Design Engineer from Pakistan.</h3>
 
 ## 🙋‍♂️ About Me
