@@ -47,4 +47,9 @@
     </p>
 </details>
 
- 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=syedarafia13&bg_color=111111&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/syedarafia13/count.svg" />
+</p>
